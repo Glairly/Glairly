@@ -2,7 +2,7 @@
 
 🤓 I'm Mr. Wongvarit Pancharoen.
 
-🏫 I'm Currently A Student majoring in Computer Engineering at Kmitl.
+🏫 I'm Currently A Student majoring in Computer Engineering at KMITL.
 
 🌱 I’m currently learning Web-Dev. , AI ( ML, DL ) , Flutter ...
 
